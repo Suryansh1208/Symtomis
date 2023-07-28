@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825271593678",
+    "project_id": "disease-e2c23",
+    "storage_bucket": "disease-e2c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825271593678:android:3d05dd92151a2894233e9f",
+        "android_client_info": {
+          "package_name": "com.example.devpirates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825271593678-kdbtls9so3b1dn3jibesshkc1lcc5rdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWknzg1gUQ47DituUv1kS5oY6F8yjK7b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825271593678-kdbtls9so3b1dn3jibesshkc1lcc5rdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
