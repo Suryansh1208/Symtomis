@@ -16,4 +16,4 @@ Symtomis is a user-friendly Flutter application that offers real-time disease in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/symtomis.git
+   git clone https://github.com/Suryansh1208/Symtomis.git
